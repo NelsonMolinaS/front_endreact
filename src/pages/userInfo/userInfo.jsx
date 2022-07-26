@@ -11,7 +11,7 @@ const UserInfo = () => {
 
     return (
         <div>
-            El nombre del usuario es {user} y cuenta {contador}. <input type="button" value="actualizar locastorage" onClick={() => updateLocalStorage()} />
+            El nombre del usuario es {user} y cuenta {contador}. <input type="button" value="actualizat locastorage" onClick={() => updateLocalStorage()} />
         </div>
     );
 };
